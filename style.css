@@ -1,0 +1,111 @@
+    /* ----------------------------------------------------------
+    :: Template Name: Studio - Creative Photography Template
+    :: Author: Colorlib
+    :: Author URL: https://colorlib.com
+    :: Version: 1.0.0
+    :: Created: 31 January 2018
+    :: Last Updated: 31 January 2018
+    ---------------------------------------------------------- */
+
+    /* ============ PLACE YOUR CUSTOM CSS HERE ============ */
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+
+.background {
+	text-align: justify;
+}
+
+.navbar-nav li a{
+	  font-family: 'Montserrat', sans-serif;
+    /*font-family: 'Coiny', cursive;*/
+}
+
+
+.mytext {
+	text-align: justify;
+	color: #fff;
+}
+
+.mytext p {
+	/*text-align: justify;*/
+	color: #fff;
+	font-size: 15px;
+	font-weight: 50;
+}
+
+.impact-text h5 {
+	font-size: 20px;
+}
+
+.impact-text p {
+	font-size: 100%;
+	font-weight: 400;
+}
+
+.index-box {
+	box-shadow: -14.142px 14.142px 20px 0px rgba(157, 157, 157, 0.5) !important;
+	padding: 5%;
+	margin-bottom: 10%;
+	color: #fff !important; 
+	background: #243eff;
+    background: -webkit-linear-gradient(to left, #3de6fa, #243eff);
+    background: -webkit-linear-gradient(right, #3de6fa, #243eff);
+    background: linear-gradient(to left, #3de6fa, #243eff);
+}
+
+.index-box1 {
+	box-shadow: -14.142px 14.142px 20px 0px rgba(157, 157, 157, 0.5) !important;
+	padding: 3%;
+	margin-bottom: 10%;
+	color: #fff !important; 
+	
+
+}
+
+
+.index-text{
+	
+	/*border-left: 3px solid #243eff;*/
+	/*border-right: 3px solid #243eff;*/
+	padding: 7% 3% 5%;
+	box-shadow: -14.142px 14.142px 20px 0px rgba(157, 157, 157, 157);
+}
+
+.indexx{
+	background: #243eff;
+    background: -webkit-linear-gradient(to top, #3de6fa, #243eff);
+    background: -webkit-linear-gradient(bottom, #3de6fa, #243eff);
+    background: linear-gradient(to top, #3de6fa, #243eff);
+}
+
+.index-box {
+	color: #fff;
+}
+
+.index-box p{
+	color: #fff;
+}
+
+
+.unique img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  width: 150px;
+ box-shadow: -14.142px 14.142px 20px 0px rgba(157, 157, 157, 157);
+}
+
+.unique img:hover {
+  box-shadow:  0 0 2px 1px rgba(0, 140, 186, 0.5);
+
+  /*box-shadow: -14.142px 14.142px 20px 0px rgba(157, 157, 157, 157);*/
+}
+
+.uniqu img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  width: 150px;
+ /*box-shadow: -14.142px 14.142px 20px 0px rgba(157, 157, 157, 157);*/
+}
+
